@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>doodle jump png/bullet.png</file>
+        <file>doodle jump png/doodle(normal).png</file>
+        <file>doodle jump png/doodle(rocket).png</file>
+        <file>doodle jump png/doodle(shooting).png</file>
+        <file>doodle jump png/hazard(black hole).png</file>
+        <file>doodle jump png/monster.png</file>
+        <file>doodle jump png/platform(crush).png</file>
+        <file>doodle jump png/platform(normal).png</file>
+        <file>doodle jump png/prop(rocket).png</file>
+        <file>doodle jump png/prop(spring).png</file>
+        <file>doodle jump png/background.png</file>
+    </qresource>
+</RCC>
